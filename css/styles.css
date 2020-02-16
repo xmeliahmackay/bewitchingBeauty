@@ -1,0 +1,17 @@
+#bbpic {
+  width: 80%;
+  image-orientation: center;
+}
+#apt {
+  align-items: center;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+body {
+  background-color: rgb(198, 233, 198);
+}
+#apt {
+  background-color: rgb(157, 209, 157);
+}
