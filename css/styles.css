@@ -14,4 +14,8 @@ body {
 }
 #apt {
   background-color: rgb(157, 209, 157);
+  background-image: url(../img/leaf.jpg);
+}
+.question {
+  background-color: rgb(186, 224, 186);
 }
