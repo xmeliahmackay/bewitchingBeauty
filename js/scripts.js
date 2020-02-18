@@ -6,4 +6,4 @@ $(document).ready(function() {
     var name = $("#name").val();
     alert((name) + " you have booked your first appointment!");
   });
-});
+}); 
