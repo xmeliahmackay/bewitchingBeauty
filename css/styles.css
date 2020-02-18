@@ -31,3 +31,30 @@ body {
 .examplePhotos {
   background-image: url(../img/leaf.jpg);
 }
+.angImg {
+  width: 100%;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 65px;
+  text-align: center;
+  text-decoration: none;
+  margin: 2px 6px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.con {
+  background-color: rgb(87, 231, 207);
+  text-align: center;
+}
+.angImg {
+  border-radius: 50%;
+}
