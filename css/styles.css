@@ -8,6 +8,8 @@
 }
 h1 {
   text-align: center;
+  color: black;
+  font-style: italic;
 }
 body {
   background-color: rgb(198, 233, 198);
@@ -17,5 +19,47 @@ body {
   background-image: url(../img/leaf.jpg);
 }
 .question {
+<<<<<<< HEAD
   background-color: rgb(186, 224, 186);
 } 
+=======
+  background-color: rgb(198, 233, 198);
+  font-size: 26px;
+  text-align: center;
+}
+.lshPic {
+  width:90%;
+  float: center;
+  margin: 10px;
+}
+.examplePhotos {
+  background-image: url(../img/leaf.jpg);
+}
+.angImg {
+  width: 100%;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 65px;
+  text-align: center;
+  text-decoration: none;
+  margin: 2px 6px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.con {
+  background-color: rgb(87, 231, 207);
+  text-align: center;
+}
+.angImg {
+  border-radius: 50%;
+}
+>>>>>>> master
